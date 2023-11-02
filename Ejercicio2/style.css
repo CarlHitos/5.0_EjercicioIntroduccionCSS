@@ -1,0 +1,10 @@
+body {
+    background-image: url(https://i.pinimg.com/474x/f8/95/39/f8953923b9be98cdbb5268bf5dc33959.jpg);
+    background-repeat: repeat-y;
+    background-size: auto;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
