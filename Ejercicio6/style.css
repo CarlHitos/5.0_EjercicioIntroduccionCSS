@@ -7,22 +7,40 @@ body {
     background-position: center;
 }
 
-header {
+#h1p1 {
     text-align: center;
     color: rgb(5, 63, 110);
     font-size: 30px;
     font-weight: bold;
 }
 
-main {
+#h1p2 {
+    text-align: center;
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#mainp1 {
     background-color: rgb(126, 219, 204);
     text-align: center;
     border-radius: 40px;
 }
 
-footer {
+#mainp2 {
+    background-color: blueviolet;
+    text-align: center;
+    border-radius: 40px;
+}
+
+#piep1 {
     color: blueviolet;
 }
+
+#piep2 {
+    color: blue;
+}
+
 
 a {
     font-weight: bold;
